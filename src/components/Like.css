@@ -1,0 +1,19 @@
+.like {
+    display: flex;
+    margin-left: 1em;
+    justify-content: center;
+}
+
+
+
+.like button{
+    font-size: 14px;
+    padding-bottom: 0;
+    padding-top: 0;
+}
+
+
+.like  button:hover{
+    color:white;
+    background-color: red;
+}
